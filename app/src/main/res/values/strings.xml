@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Useful_Extensions</string>
+
+    <string-array name="cars">
+        <item>Honda</item>
+        <item>Toyota</item>
+        <item>Ford</item>
+    </string-array>
+    
+    <string-array name="dayOfWeek">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+</resources>
